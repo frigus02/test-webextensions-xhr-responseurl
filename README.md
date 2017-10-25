@@ -1,0 +1,1 @@
+# test-webextensions-xhr-responseurl
